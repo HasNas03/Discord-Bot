@@ -1,4 +1,4 @@
-# Osmium-16
+# Osmium-17
 Discord Bot repo
 
 # Purpose:
