@@ -1,5 +1,5 @@
 # Osmium-17
-Discord Bot repo
+My general Discord bot
 
 # Purpose:
 # Discord bot project. Features will be listed below and periodically added.
