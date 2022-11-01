@@ -1,4 +1,5 @@
-# Osmium-17
+# General Discord Bot
+Code: Osmium-17
 My general Discord bot
 
 # Purpose:
